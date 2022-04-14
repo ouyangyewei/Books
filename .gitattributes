@@ -54,3 +54,14 @@ Kafka/《Apache[[:space:]]Kafka源码剖析》.pdf filter=lfs diff=lfs merge=lfs
 Papers/gfs-sosp2003.pdf filter=lfs diff=lfs merge=lfs -text
 Spring/Spring殿堂级书籍.rar filter=lfs diff=lfs merge=lfs -text
 Java/Java开发手册对外发布的所有版本.zip filter=lfs diff=lfs merge=lfs -text
+Kafka/KAFKA[[:space:]]3.0/第一天教案/kafka_2.12-3.1.0.tgz filter=lfs diff=lfs merge=lfs -text
+Kafka/KAFKA[[:space:]]3.0/第一天教案/scala-2.13.8.zip filter=lfs diff=lfs merge=lfs -text
+Kafka/KAFKA[[:space:]]3.0/第一天教案/第一天课程教案.pdf filter=lfs diff=lfs merge=lfs -text
+Kafka/KAFKA[[:space:]]3.0/第一天教案/apache-zookeeper-3.6.3-bin.tar.gz filter=lfs diff=lfs merge=lfs -text
+Kafka/KAFKA[[:space:]]3.0/第一天教案/gradle-7.3.3-all.zip filter=lfs diff=lfs merge=lfs -text
+Kafka/KAFKA[[:space:]]3.0/第一天教案/kafka-3.1.0-src.tgz filter=lfs diff=lfs merge=lfs -text
+Kafka/KAFKA[[:space:]]3.0/第一天教案/kafka3新特性第一次课.txt filter=lfs diff=lfs merge=lfs -text
+Kafka/KAFKA[[:space:]]3.0/raft-atc14.pdf filter=lfs diff=lfs merge=lfs -text
+Kafka/KAFKA[[:space:]]3.0/第一天教案 filter=lfs diff=lfs merge=lfs -text
+Kafka/KAFKA[[:space:]]3.0/第三天教案.pdf filter=lfs diff=lfs merge=lfs -text
+Kafka/KAFKA[[:space:]]3.0/第二天教案.pdf filter=lfs diff=lfs merge=lfs -text
